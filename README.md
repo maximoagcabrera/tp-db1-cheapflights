@@ -19,13 +19,13 @@ híbrida que garantiza la integridad relacional mediante PostgreSQL y la agilida
 - Data Format: JSON.
 
 ## Estructura del Repositorio
-sql/: Colección de scripts modulares para la base de datos:  
-  tablas/: Definición de esquemas para aeropuertos, rutas, clientes y vuelos.  
-  stored_procedures/: Lógica programada en PLpgSQL (apertura_vuelo, anular_reserva, check_in_asiento).  
-  triggers/: Automatización de tareas post-transacción.  
-data/: Datasets JSON con aeropuertos de Argentina, clientes y escenarios de prueba.  
-main.go: Interfaz de consola interactiva y orquestador de conexiones.  
-BoltDB.go: Capa de persistencia NoSQL y manejo de transacciones atómicas.  
+- sql/: Colección de scripts modulares para la base de datos:  
+  - tablas/: Definición de esquemas para aeropuertos, rutas, clientes y vuelos.  
+  - stored_procedures/: Lógica programada en PLpgSQL (apertura_vuelo, anular_reserva, check_in_asiento).  
+  - triggers/: Automatización de tareas post-transacción.  
+- data/: Datasets JSON con aeropuertos de Argentina, clientes y escenarios de prueba.  
+- main.go: Interfaz de consola interactiva y orquestador de conexiones.  
+- BoltDB.go: Capa de persistencia NoSQL y manejo de transacciones atómicas.  
 
 ## Ejemplo de Lógica Implementada
 El sistema no solo guarda datos, sino que los valida en tiempo real:
