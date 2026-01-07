@@ -1,6 +1,7 @@
 CheapFlights: Sistema de Gestión de Vuelos
 
 Descripción del Proyecto
+
 CheapFlights es una plataforma robusta diseñada para la administración de operaciones aeroportuarias. El núcleo del sistema reside en una arquitectura de persistencia 
 híbrida que garantiza la integridad relacional mediante PostgreSQL y la agilidad de almacenamiento local con BoltDB (Key-Value), todo orquestado por una aplicación central desarrollada en Go.
 
@@ -18,15 +19,23 @@ Stack Tecnológico
 - Data Format: JSON.
 
 Estructura del Repositorio
+
 sql/: Colección de scripts modulares para la base de datos:
+
   tablas/: Definición de esquemas para aeropuertos, rutas, clientes y vuelos.
+  
   stored_procedures/: Lógica programada en PLpgSQL (apertura_vuelo, anular_reserva, check_in_asiento).
+  
   triggers/: Automatización de tareas post-transacción.
+  
 data/: Datasets JSON con aeropuertos de Argentina, clientes y escenarios de prueba.
+
 main.go: Interfaz de consola interactiva y orquestador de conexiones.
+
 BoltDB.go: Capa de persistencia NoSQL y manejo de transacciones atómicas.
 
 Ejemplo de Lógica Implementada
+
 El sistema no solo guarda datos, sino que los valida en tiempo real:
 "Antes de confirmar una reserva, el sistema verifica en milisegundos la existencia del cliente, la vigencia del vuelo y la disponibilidad de asientos, disparando un 
 registro de error automático si alguna condición falla".
@@ -38,7 +47,11 @@ Instalación y Ejecución
 5. Ejecutar con Bash
 
 Equipo de Desarrollo
+
 Cabral Tobias
+
 Cabrera Maximo
+
 Fauda Matias
+
 Inti Goñi
