@@ -5,7 +5,7 @@
 CheapFlights es una plataforma robusta diseñada para la administración de operaciones aeroportuarias. El núcleo del sistema reside en una arquitectura de persistencia 
 híbrida que garantiza la integridad relacional mediante PostgreSQL y la agilidad de almacenamiento local con BoltDB (Key-Value), todo orquestado por una aplicación central desarrollada en Go.
 
-## Características Principales (Core Features)
+## Características Principales
 - Persistencia Híbrida: Sincronización de datos entre una base de datos relacional (SQL) y una NoSQL orientada a documentos (BoltDB).
 - Lógica de Negocio en Base de Datos: Implementación de reglas críticas mediante Stored Procedures que gestionan la apertura de vuelos, reservas y check-in.
 - Automatización con Triggers: Sistema de "notificaciones" reactivo que detecta cambios en las reservas y genera automáticamente registros de auditoría/envío de emails.
