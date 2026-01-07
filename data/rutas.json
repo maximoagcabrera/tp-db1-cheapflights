@@ -1,0 +1,128 @@
+[
+  {
+    "nro_ruta": 5050,
+    "id_aeropuerto_origen": "AEP",
+    "id_aeropuerto_destino": "MDZ",
+    "duracion": "2 hours"
+  },
+  {
+    "nro_ruta": 5051,
+    "id_aeropuerto_origen": "MDZ",
+    "id_aeropuerto_destino": "AEP",
+    "duracion": "1 hour 40 minutes"
+  },
+  {
+    "nro_ruta": 5100,
+    "id_aeropuerto_origen": "EZE",
+    "id_aeropuerto_destino": "IGR",
+    "duracion": "2 hours"
+  },
+  {
+    "nro_ruta": 5101,
+    "id_aeropuerto_origen": "IGR",
+    "id_aeropuerto_destino": "AEP",
+    "duracion": "2 hours"
+  },
+  {
+    "nro_ruta": 5103,
+    "id_aeropuerto_origen": "IGR",
+    "id_aeropuerto_destino": "EZE",
+    "duracion": "2 hours"
+  },
+  {
+    "nro_ruta": 5150,
+    "id_aeropuerto_origen": "AEP",
+    "id_aeropuerto_destino": "CNQ",
+    "duracion": "1 hour 35 minutes"
+  },
+  {
+    "nro_ruta": 5151,
+    "id_aeropuerto_origen": "CNQ",
+    "id_aeropuerto_destino": "AEP",
+    "duracion": "1 hour 30 minutes"
+  },
+  {
+    "nro_ruta": 5160,
+    "id_aeropuerto_origen": "EZE",
+    "id_aeropuerto_destino": "SLA",
+    "duracion": "2 hours 10 minutes"
+  },
+  {
+    "nro_ruta": 5161,
+    "id_aeropuerto_origen": "SLA",
+    "id_aeropuerto_destino": "EZE",
+    "duracion": "2 hours 5 minutes"
+  },
+  {
+    "nro_ruta": 5230,
+    "id_aeropuerto_origen": "AEP",
+    "id_aeropuerto_destino": "SDE",
+    "duracion": "1 hour 45 minutes"
+  },
+  {
+    "nro_ruta": 5231,
+    "id_aeropuerto_origen": "SDE",
+    "id_aeropuerto_destino": "AEP",
+    "duracion": "1 hour 40 minutes"
+  },
+  {
+    "nro_ruta": 5450,
+    "id_aeropuerto_origen": "COR",
+    "id_aeropuerto_destino": "FTE",
+    "duracion": "3 hours 25 minutes"
+  },
+  {
+    "nro_ruta": 5451,
+    "id_aeropuerto_origen": "FTE",
+    "id_aeropuerto_destino": "COR",
+    "duracion": "3 hours 15 minutes"
+  },
+  {
+    "nro_ruta": 5480,
+    "id_aeropuerto_origen": "COR",
+    "id_aeropuerto_destino": "SLA",
+    "duracion": "1 hour 25 minutes"
+  },
+  {
+    "nro_ruta": 5481,
+    "id_aeropuerto_origen": "SLA",
+    "id_aeropuerto_destino": "COR",
+    "duracion": "1 hour 20 minutes"
+  },
+  {
+    "nro_ruta": 5520,
+    "id_aeropuerto_origen": "COR",
+    "id_aeropuerto_destino": "NQN",
+    "duracion": "1 hour 45 minutes"
+  },
+  {
+    "nro_ruta": 5521,
+    "id_aeropuerto_origen": "NQN",
+    "id_aeropuerto_destino": "COR",
+    "duracion": "1 hour 35 minutes"
+  },
+  {
+    "nro_ruta": 5540,
+    "id_aeropuerto_origen": "USH",
+    "id_aeropuerto_destino": "FTE",
+    "duracion": "1 hour 20 minutes"
+  },
+  {
+    "nro_ruta": 5541,
+    "id_aeropuerto_origen": "FTE",
+    "id_aeropuerto_destino": "USH",
+    "duracion": "1 hour 20 minutes"
+  },
+  {
+    "nro_ruta": 5550,
+    "id_aeropuerto_origen": "EZE",
+    "id_aeropuerto_destino": "FTE",
+    "duracion": "3 hours 15 minutes"
+  },
+  {
+    "nro_ruta": 5551,
+    "id_aeropuerto_origen": "FTE",
+    "id_aeropuerto_destino": "AEP",
+    "duracion": "3 hours"
+  }
+]

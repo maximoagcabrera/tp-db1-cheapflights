@@ -1,0 +1,116 @@
+[
+  {
+    "id_aeropuerto": "AEP",
+    "nombre": "Aeroparque Jorge Newbery",
+    "localidad": "Buenos Aires",
+    "provincia": "C.A.B.A."
+  },
+  {
+    "id_aeropuerto": "EZE",
+    "nombre": "Aeropuerto Internacional Ministro Pistarini",
+    "localidad": "Ezeiza",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id_aeropuerto": "BRC",
+    "nombre": "Aeropuerto Internacional Teniente Luis Candelaria",
+    "localidad": "San Carlos de Bariloche",
+    "provincia": "Río Negro"
+  },
+  {
+    "id_aeropuerto": "CRD",
+    "nombre": "Aeropuerto Internacional General Enrique Mosconi",
+    "localidad": "Comodoro Rivadavia",
+    "provincia": "Chubut"
+  },
+  {
+    "id_aeropuerto": "COR",
+    "nombre": "Aeropuerto Internacional Ingeniero Ambrosio Taravella",
+    "localidad": "Córdoba",
+    "provincia": "Córdoba"
+  },
+  {
+    "id_aeropuerto": "CNQ",
+    "nombre": "Aeropuerto Internacional Doctor Fernando Piragine Niveyro",
+    "localidad": "Corrientes",
+    "provincia": "Corrientes"
+  },
+  {
+    "id_aeropuerto": "FTE",
+    "nombre": "Aeropuerto Internacional Comandante Armando Tola",
+    "localidad": "El Calafate",
+    "provincia": "Santa Cruz"
+  },
+  {
+    "id_aeropuerto": "IGR",
+    "nombre": "Aeropuerto Internacional Cataratas del Iguazú Mayor D. Carlos Eduardo Krause",
+    "localidad": "Puerto Iguazú",
+    "provincia": "Misiones"
+  },
+  {
+    "id_aeropuerto": "JUJ",
+    "nombre": "Aeropuerto Internacional Gobernador Horacio Guzmán",
+    "localidad": "San Salvador de Jujuy",
+    "provincia": "Jujuy"
+  },
+  {
+    "id_aeropuerto": "MDZ",
+    "nombre": "Aeropuerto Internacional Gobernador Francisco Gabrielli",
+    "localidad": "El Plumerillo",
+    "provincia": "Mendoza"
+  },
+  {
+    "id_aeropuerto": "NQN",
+    "nombre": "Aeropuerto Internacional Presidente Perón",
+    "localidad": "Neuquén",
+    "provincia": "Neuquén"
+  },
+  {
+    "id_aeropuerto": "PSS",
+    "nombre": "Aeropuerto Internacional Libertador General José de San Martín",
+    "localidad": "Posadas",
+    "provincia": "Misiones"
+  },
+  {
+    "id_aeropuerto": "PMY",
+    "nombre": "Aeropuerto El Tehuelche",
+    "localidad": "Puerto Madryn",
+    "provincia": "Chubut"
+  },
+  {
+    "id_aeropuerto": "SLA",
+    "nombre": "Aeropuerto Internacional General Martín Miguel de Güemes",
+    "localidad": "Salta",
+    "provincia": "Salta"
+  },
+  {
+    "id_aeropuerto": "UAQ",
+    "nombre": "Aeropuerto Internacional Domingo Faustino Sarmiento",
+    "localidad": "San Juan",
+    "provincia": "San Juan"
+  },
+  {
+    "id_aeropuerto": "SDE",
+    "nombre": "Aeropuerto Vicecomodoro Ángel de la Paz Aragonés",
+    "localidad": "Santiago del Estero",
+    "provincia": "Santiago del Estero"
+  },
+  {
+    "id_aeropuerto": "REL",
+    "nombre": "Aeropuerto Internacional Almirante Marcos A. Zar",
+    "localidad": "Trelew",
+    "provincia": "Chubut"
+  },
+  {
+    "id_aeropuerto": "TUC",
+    "nombre": "Aeropuerto Internacional Teniente Benjamín Matienzo",
+    "localidad": "San Miguel de Tucumán",
+    "provincia": "Tucumán"
+  },
+  {
+    "id_aeropuerto": "USH",
+    "nombre": "Aeropuerto Internacional Malvinas Argentinas",
+    "localidad": "Ushuaia",
+    "provincia": "Tierra del Fuego"
+  }
+]
