@@ -1,0 +1,133 @@
+[
+  {
+    "id_orden": 1,
+    "operacion": "apertura",
+    "nro_ruta": 5051,
+    "f_salida_vuelo": "2025-10-28 15:00",
+    "nro_asientos_totales": 170
+  },
+  {
+    "id_orden": 2,
+    "operacion": "apertura",
+    "nro_ruta": 5051,
+    "f_salida_vuelo": "2025-11-29 15:00",
+    "nro_asientos_totales": 0
+  },
+  {
+    "id_orden": 3,
+    "operacion": "apertura",
+    "nro_ruta": 5000,
+    "f_salida_vuelo": "2025-11-29 15:00",
+    "nro_asientos_totales": 170
+  },
+  {
+    "id_orden": 4,
+    "operacion": "apertura",
+    "nro_ruta": 5050,
+    "f_salida_vuelo": "2025-11-30 14:00",
+    "nro_asientos_totales": 170
+  },
+  {
+    "id_orden": 5,
+    "operacion": "apertura",
+    "nro_ruta": 5161,
+    "f_salida_vuelo": "2025-11-30 15:00",
+    "nro_asientos_totales": 2
+  },
+  {
+    "id_orden": 6,
+    "operacion": "reserva",
+    "id_vuelo": 2,
+    "id_cliente": 15
+  },
+  {
+    "id_orden": 7,
+    "operacion": "reserva",
+    "id_vuelo": 1,
+    "id_cliente": 10
+  },
+  {
+    "id_orden": 8,
+    "operacion": "reserva",
+    "id_vuelo": 2,
+    "id_cliente": 20
+  },
+  {
+    "id_orden": 9,
+    "operacion": "reserva",
+    "id_vuelo": 3,
+    "id_cliente": 10
+  },
+  {
+    "id_orden": 10,
+    "operacion": "check-in",
+    "id_cliente": 15,
+    "id_reserva": 1,
+    "nro_asiento": 3
+  },
+  {
+    "id_orden": 11,
+    "operacion": "check-in",
+    "id_cliente": 15,
+    "id_reserva": 1,
+    "nro_asiento": 1
+  },
+  {
+    "id_orden": 12,
+    "operacion": "check-in",
+    "id_cliente": 10,
+    "id_reserva": 2,
+    "nro_asiento": 40
+  },
+  {
+    "id_orden": 13,
+    "operacion": "check-in",
+    "id_cliente": 15,
+    "id_reserva": 1,
+    "nro_asiento": 2
+  },
+  {
+    "id_orden": 14,
+    "operacion": "check-in",
+    "id_cliente": 20,
+    "id_reserva": 3,
+    "nro_asiento": 1
+  },
+  {
+    "id_orden": 15,
+    "operacion": "check-in",
+    "id_cliente": 20,
+    "id_reserva": 3,
+    "nro_asiento": 2
+  },
+  {
+    "id_orden": 16,
+    "operacion": "reserva",
+    "id_vuelo": 2,
+    "id_cliente": 5
+  },
+  {
+    "id_orden": 17,
+    "operacion": "reserva",
+    "id_vuelo": 1,
+    "id_cliente": 5
+  },
+  {
+    "id_orden": 18,
+    "operacion": "anulacion",
+    "id_cliente": 20,
+    "id_reserva": 3
+  },
+  {
+    "id_orden": 19,
+    "operacion": "anulacion",
+    "id_cliente": 5,
+    "id_reserva": 3
+  },
+  {
+    "id_orden": 20,
+    "operacion": "anulacion",
+    "id_cliente": 5,
+    "id_reserva": 4
+  }
+]
